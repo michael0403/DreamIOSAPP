@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key>
+	<string></string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string></string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>photo</string>
+	<key>NSCameraUsageDescription</key>
+	<string>camera use</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDhkqvjSgOxitfBoYYM8iCm1Xs0RnDUUYc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>519527989834</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>UTCS.mc69424-DreamScape</string>
+	<key>PROJECT_ID</key>
+	<string>dreamscape-64243</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dreamscape-64243.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>CotaneBeach.otf</string>
+	</array>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:519527989834:ios:4049d8b6426db9ad51dcb3</string>
+</dict>
+</plist>
